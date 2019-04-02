@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-keybinder": [
+        "dist/ngx-keybinder"
+      ],
+      "ngx-keybinder/*": [
+        "dist/ngx-keybinder/*"
+      ]
+    }
   }
 }

@@ -1,0 +1,8 @@
+{
+  "name": "ngx-keybinder",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0-beta.10",
+    "@angular/core": "^8.0.0-beta.10"
+  }
+}
